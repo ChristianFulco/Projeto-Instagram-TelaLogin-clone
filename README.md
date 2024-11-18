@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 <h3> 💻 About Project:</h3>
-<a href="https://instapageproject.netlify.app/">Link project"</a>
+<a href="https://instapageproject.netlify.app/"><h3>Link project<</h3>/a>
 <p><b>  Projeto clone da tela de Log in do Instagram com algumas alterações. </b></p>
 <br>
 <br>
